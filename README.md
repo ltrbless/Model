@@ -1,1 +1,1 @@
-# This area two model.
+# There are two models.
